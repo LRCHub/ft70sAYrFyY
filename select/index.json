@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Bubble Gum",
+  "base_artist": "NewJeans",
+  "createdAt": "2025-12-26T12:21:11.212379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BUBBLE GUM",
+      "artist": "Quavo",
+      "has_synced": true,
+      "path": "select/01_BUBBLE_GUM_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Brigitte Bardot",
+      "has_synced": false,
+      "path": "select/02_Bubble_Gum_Brigitte_Bardot.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Brigitte Bardot",
+      "has_synced": true,
+      "path": "select/03_Bubble_Gum_Brigitte_Bardot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/04_Bubble_Gum_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "TRITICUM",
+      "has_synced": true,
+      "path": "select/05_Bubble_Gum_TRITICUM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Brigitte Bardot",
+      "has_synced": true,
+      "path": "select/06_Bubble_Gum_Brigitte_Bardot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Clairo",
+      "has_synced": true,
+      "path": "select/07_Bubble_Gum_Clairo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bubble Gum Years",
+      "artist": "Gomez",
+      "has_synced": true,
+      "path": "select/08_Bubble_Gum_Years_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "clairo",
+      "has_synced": true,
+      "path": "select/09_Bubble_Gum_clairo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "VAX feat. Sorana",
+      "has_synced": true,
+      "path": "select/10_Bubble_Gum_VAX_feat._Sorana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "VAX;Sorana",
+      "has_synced": true,
+      "path": "select/11_Bubble_Gum_VAX;Sorana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bubble Gum",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_Bubble_Gum_NewJeans.txt"
+    }
+  ]
+}
